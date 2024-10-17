@@ -1,7 +1,7 @@
 # Ex.No: 7 Implementation of Decision Tree Learning 
-## DATE: 05.10.2024
-## REGISTER NUMBER : 212221240057
-## AIM:
+## Date: 05.10.2024
+## Register Number : 212221240057
+## Aim:
 
 Design a decision tree for following data. 
 Healthy, In Cover, With Ammo -> Attack
