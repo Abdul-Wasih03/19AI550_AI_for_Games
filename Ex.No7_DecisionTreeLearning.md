@@ -1,5 +1,5 @@
 # Ex.No: 7 Implementation of Decision Tree Learning 
-## Date: 05.10.2024
+## Date: 04.10.2024
 ## Register Number : 212221240057
 ## Aim:
 
