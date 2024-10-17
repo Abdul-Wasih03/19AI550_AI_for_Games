@@ -27,7 +27,7 @@ Hurt, Exposed, With Ammo -> Defend
    
 ## Program:
 
-```
+```py
 from sklearn import tree
 import pandas as pd
 
