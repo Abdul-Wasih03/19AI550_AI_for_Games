@@ -1,5 +1,5 @@
 # Ex.No: 11  Mini Project 
-### Date:  
+### Date: 08/11/2024
 ### Register Number: 212221240057
 ### Aim: 
 To write a Python program to simulate the game using Pygame.
